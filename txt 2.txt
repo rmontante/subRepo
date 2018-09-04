@@ -1,1 +1,2 @@
 se crea txt 2
+se le agrega texto a txt 2

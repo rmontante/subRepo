@@ -1,1 +1,2 @@
 mi primer commit en subrepo
+se le agrega texto a txt de subrepo
